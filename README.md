@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Reflective Report
 
 This reflective report outlines my experience completing the Programming for Data Science assignment. The tasks covered a wide range of skills, from writing basic Python functions to performing more advanced data‑science operations using libraries such as Pandas, Matplotlib, and SciPy. My goal throughout the assignment was to demonstrate that I could design solutions to data problems, test them effectively, and use appropriate tools to identify meaningful patterns in real datasets.
@@ -20,3 +21,7 @@ If I were to extend or improve this work in the future, I would consider using i
 I would also expand the outlier‑detection process to include all numerical columns, not just those used in the hypothesis test, to ensure the dataset is fully cleaned.
 
 Finally, I would implement a more robust data‑cleaning step to handle inconsistencies in identifiers. For example, if country or location names differed slightly between files, a standardisation step would prevent mismatches during merging and reduce the risk of losing data.
+=======
+# pds_25jan_assignment
+pds assignment
+>>>>>>> 92e172b3aca9f414ecd4e758266c3c56b644c82d
