@@ -4,7 +4,7 @@
 This reflective report outlines my experience completing the Programming for Data Science assignment. The tasks covered a wide range of skills, from writing basic Python functions to performing more advanced data‑science operations using libraries such as Pandas, Matplotlib, and SciPy. My goal throughout the assignment was to demonstrate that I could design solutions to data problems, test them effectively, and use appropriate tools to identify meaningful patterns in real datasets.
 
 ## What Was Easy or Hard?
-The first part of the assignment was a good opportunity to reinforce my understanding of core Python programming. Tasks such as calculating Euclidean distances without external libraries were straightforward, but they required careful attention to data structure and logic.
+The first part of the assignment was a good opportunity to reinforce my understanding of core Python programming. Every tasks without using built-in functions were straightforward, but they required careful attention to data structure and logic.
 
 Merging the two datasets in Part 2 was also relatively easy because both files shared a common timestamp column. However, the visualisation and statistical components were more challenging. Creating graphs was manageable, but interpreting them and performing statistical tests—such as correlation analysis and outlier detection—required additional research. Understanding how to apply the IQR method and how to interpret p‑values was initially difficult, but working through these steps improved my confidence.
 
